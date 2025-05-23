@@ -26,7 +26,7 @@ int main() {
 
     vector<int> nums = {1,1,0,0,1,1,1,1,0,0,1,0};
 
-    cout << "Max Consecutive Ones : " << findMaxConsecutiveOnes(nums);
+    cout << "Max Consecutive Ones : " << findMaxConsecutiveOnes(nums) << endl;
 
     return 0;
     
