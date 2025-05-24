@@ -19,6 +19,6 @@ int main() {
     cin >> str;
 
     reverseString(str);
-    cout << "Reversed String : " << str;
+    cout << "Reversed String : " << str << endl;
     return 0;
 }
