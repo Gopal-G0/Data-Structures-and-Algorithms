@@ -37,7 +37,7 @@ int main() {
 
     string result = addStrings(num1,num2);
 
-    cout << "Addition of two Strings : " << result;
+    cout << "Addition of two Strings : " << result << endl;
     return 0;
 
 }
